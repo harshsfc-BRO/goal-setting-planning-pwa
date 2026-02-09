@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# next
+.next
+out
+public/sw.js
+public/workbox-*.js
+public/fallback-*.js
+
+# misc
+.DS_Store
+
+# local env
+.env.local
+.env
